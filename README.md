@@ -1,2 +1,2 @@
 # Html_Css_prac
-this is a simple portfolio with css and html only.
+This is a simple portfolio with css and html only.
